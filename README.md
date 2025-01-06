@@ -18,7 +18,7 @@ Welcome to **Prestige Koi Auction**, a platform designed to make koi fish auctio
 
 1. [Overview](#-overview)
 2. [Features](#-features)
-3. [Tech Stack](#-tech-stack-%EF%B8%8F)
+3. [Tech Stack](#tech-stack-%EF%B8%8F)
 4. [Screenshots](#-screenshots)
 5. [Contributing](#contributions--team-)
 6. [License](#-license)
