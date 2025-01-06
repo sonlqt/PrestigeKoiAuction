@@ -8,7 +8,7 @@
     </a>
 </div>
 
-# 
+---
 
 Welcome to **Prestige Koi Auction**, a platform designed to make koi fish auctions transparent, efficient, and enjoyable for everyone. Whether you're a breeder, manager, or bidder, this application simplifies the auction process with robust features and user-friendly design.
 
@@ -16,14 +16,13 @@ Welcome to **Prestige Koi Auction**, a platform designed to make koi fish auctio
 
 ## 🗂️ Contents
 
-1. [Overview](#-overview)
-2. [Features](#-features)
-3. [Getting Started](#-getting-started)
-4. [Tech Stack](#-tech-stack)
-5. [Screenshots](#-screenshots)
-6. [Contributing](#-contributing)
-7. [License](#-license)
-8. [Support](#-support)
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Screenshots](#screenshots)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Support](#support)
 
 ---
 
@@ -112,16 +111,16 @@ prestige-koi-auction/
 │  
 └── README.md        # Project documentation
 
+
 ```
-## Contributions & Team 🤝
-Team Members:
-Le Quang Thai Son – Project Lead, Frontend Developer, UI/UX Designer
-<br>
-Phan Xuan Phu – Frontend Developer
-<br>
-Nguyen Hien Trung Nam – Backend Developer, Devop Developer
-<br>
-Mai Thanh Long – Backend Developer, Backend Technology Researcher
+## Contributions & Team 🤝 {#contributing}
+
+### Team Members:
+- **Le Quang Thai Son** – Project Lead, Frontend Developer, UI/UX Designer
+- **Phan Xuan Phu** – Frontend Developer
+- **Nguyen Hien Trung Nam** – Backend Developer, DevOps Developer
+- **Mai Thanh Long** – Backend Developer, Backend Technology Researcher
+
 
 ---
 
@@ -134,8 +133,8 @@ This project is licensed under the terms of the **MIT License**. See the [LICENS
 ## 📬 Support
 
 If you have any questions or need help, feel free to:
-- Open an issue on [GitHub Issues](https://github.com/your-username/prestige-koi-auction/issues).
-- Reach us directly via email: [your-email@example.com](mailto:your-email@example.com).
+- Open an issue on [GitHub Issues](https://github.com/sonlqt/PrestigeKoiAuction/issues).
+- Reach us directly via email: [sonlqt.work@gmail.com](mailto:sonlqt.work@gmail.com).
 
 We will respond as soon as possible!
 
